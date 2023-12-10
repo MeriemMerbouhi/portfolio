@@ -22,7 +22,7 @@ function Projects() {
               imgPath={MeryShop}
               isBlog={false}
               title="Mery Shop"
-              description="Thrilled to introduce my latest e-commerce project! I've meticulously crafted a dynamic shopping website using HTML, CSS, Bootstrap, JavaScript, and jQuery. Experience the live site on my portfolio and explore the source code on GitHub. Stay tuned for updates, and feel free to browse the GitHub repository for an in-depth look. Happy shopping! 🛍️🌐💻"
+              description="Thrilled to introduce  e-commerce project! I've meticulously crafted a dynamic shopping website using HTML, CSS, Bootstrap, JavaScript, and jQuery. Experience the live site on my portfolio and explore the source code on GitHub. Stay tuned for updates, and feel free to browse the GitHub repository for an in-depth look. Happy shopping! 🛍️🌐💻"
               ghLink="https://github.com/MeriemMerbouhi/app-stor"
               demoLink="https://meriemmerbouhi.github.io/app-stor/"
             />
