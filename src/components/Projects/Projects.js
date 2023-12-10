@@ -45,7 +45,8 @@ function Projects() {
               isBlog={false}
               title="My pizza"
               description="My Pizza, a cutting-edge web app, now features two sides: Admin and Client. On the Admin side, restaurant managers take control with CRUD operations and reservation management. Meanwhile, the Client side offers users a seamless experience, with easy menu navigation and a user-friendly reservation system. Feel free to connect with me and share your thoughts! 🍕💻"
-              ghLink="https://github.com/MeriemMerbouhi/restaurant.git            
+              ghLink="https://github.com/MeriemMerbouhi/restaurant.git"
+            
             />
           </Col>
         </Row>
